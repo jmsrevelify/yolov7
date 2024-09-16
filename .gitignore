@@ -1,0 +1,6 @@
+*.pt
+yolo_data
+wandb
+**/__pycache__
+runs
+.DS_Store
